@@ -1,0 +1,4 @@
+Baraja de Cartas. Crea una clase Carta que represente una
+carta de la baraja. Implementa los métodos __str__ y
+__getitem__ para mostrar la carta y acceder a sus atributos
+(por ejemplo, palo y valor)

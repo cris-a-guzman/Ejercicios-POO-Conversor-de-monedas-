@@ -1,0 +1,5 @@
+Agenda de Contactos. Crea una clase Contacto que
+almacene información sobre personas en una agenda.
+Implementa los métodos __str__ y __setitem__ para mostrar
+detalles del contacto y modificar sus atributos (por
+ejemplo, número de teléfono).
